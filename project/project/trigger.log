@@ -1,0 +1,11 @@
+SQL> @'D:\APP\Oracle\SQL\project\trigger.sql';
+
+Table dropped.
+
+
+Table created.
+
+
+Trigger created.
+
+SQL> spool off;

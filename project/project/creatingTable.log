@@ -1,0 +1,59 @@
+SQL> @'D:\APP\Oracle\SQL\project\creatingTable.sql';
+
+Table dropped.
+
+
+Table created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+1 row created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table dropped.
+
+
+Table created.
+
+SQL> spool off
